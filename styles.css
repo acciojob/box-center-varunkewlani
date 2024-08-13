@@ -1,12 +1,11 @@
 div
 {
 	width:200px;
+	color:purple;
 	height:200px;
 	background-color:lightblue;
 	border: 2px solid black;
 	text-align:center;
-	
-
 	display: flex;
 	flex-direction:row;
 	justify-content:center;
